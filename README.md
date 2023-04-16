@@ -1,5 +1,5 @@
 # whois_ip
-sprawdź info o IP lub domenie
+sprawdź informacje o IP lub domenie.
 ## Musisz mieć zainstalowane:
 
 pip install requests
